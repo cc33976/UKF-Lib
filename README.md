@@ -31,13 +31,6 @@ $$x = \begin{bmatrix} s \\ v \\ a \end{bmatrix} = \begin{bmatrix} \text{altitude
 └── run.sh
 ```
 
-## Build and Run
-The project is built and executed using a simple shell script.
-```bash
-chmod +x run.sh
-./run.sh
-```
-
 ## High-Level Architecture
 ![High-Level Architecture](Images/UKF_HighLevel_Block.png)
 
